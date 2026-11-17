@@ -5,13 +5,13 @@ Projects and small exercises from my early computer science coursework, when I p
 
 **[Start with Actor Network →](actor-network/)**
 
-| Project | Original period | What to look for |
+| Project | Course | What to look for |
 | --- | --- | --- |
-| [Actor Network](actor-network/) | Spring 2025 | Adjacency lists, Dijkstra's algorithm, Kruskal's algorithm and path reconstruction |
-| [Five-Letter Word Game](word-game/) | Fall 2024 | File input, object state, difficulty settings and a console game loop |
-| [Card Collection Analyzer](card-collection/) | November 2023 | Python classes, CSV parsing, text normalization and aggregate calculations |
-| [C++ Fundamentals](cpp-fundamentals/) | Spring 2024 | Vectors, iterators, list operations and file streams |
-| [ASCII Translator](ascii-translator/) | October 2023 | Python dictionaries and text-file processing; no external dependencies |
+| [Actor Network](actor-network/) | Data Structures and Algorithms | Adjacency lists, Dijkstra's algorithm, Kruskal's algorithm and path reconstruction |
+| [Five-Letter Word Game](word-game/) | Basic Data Structures | File input, object state, difficulty settings and a console game loop |
+| [Card Collection Analyzer](card-collection/) | Joy and Beauty of Data (CSCI 127) | Python classes, CSV parsing, text normalization and aggregate calculations |
+| [C++ Fundamentals](cpp-fundamentals/) | Software Development Fundamentals | Vectors, iterators, list operations and file streams |
+| [ASCII Translator](ascii-translator/) | Joy and Beauty of Data (CSCI 127) | Python dictionaries and text-file processing; no external dependencies |
 
 Each project includes a short code tour, run instructions, and the data needed by its entry point. Start with the project page, then follow its source links.
 
